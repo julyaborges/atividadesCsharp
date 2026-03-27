@@ -1,0 +1,14 @@
+C:\repositorioAnaJulya\csharp\atividadesCsharp\obj\Debug\net8.0\atividadesCsharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\repositorioAnaJulya\csharp\atividadesCsharp\obj\Debug\net8.0\atividadesCsharp.AssemblyInfoInputs.cache
+C:\repositorioAnaJulya\csharp\atividadesCsharp\obj\Debug\net8.0\atividadesCsharp.AssemblyInfo.cs
+C:\repositorioAnaJulya\csharp\atividadesCsharp\obj\Debug\net8.0\atividadesCsharp.csproj.CoreCompileInputs.cache
+C:\repositorioAnaJulya\csharp\atividadesCsharp\bin\Debug\net8.0\atividadesCsharp.exe
+C:\repositorioAnaJulya\csharp\atividadesCsharp\bin\Debug\net8.0\atividadesCsharp.deps.json
+C:\repositorioAnaJulya\csharp\atividadesCsharp\bin\Debug\net8.0\atividadesCsharp.runtimeconfig.json
+C:\repositorioAnaJulya\csharp\atividadesCsharp\bin\Debug\net8.0\atividadesCsharp.dll
+C:\repositorioAnaJulya\csharp\atividadesCsharp\bin\Debug\net8.0\atividadesCsharp.pdb
+C:\repositorioAnaJulya\csharp\atividadesCsharp\obj\Debug\net8.0\atividadesCsharp.dll
+C:\repositorioAnaJulya\csharp\atividadesCsharp\obj\Debug\net8.0\refint\atividadesCsharp.dll
+C:\repositorioAnaJulya\csharp\atividadesCsharp\obj\Debug\net8.0\atividadesCsharp.pdb
+C:\repositorioAnaJulya\csharp\atividadesCsharp\obj\Debug\net8.0\atividadesCsharp.genruntimeconfig.cache
+C:\repositorioAnaJulya\csharp\atividadesCsharp\obj\Debug\net8.0\ref\atividadesCsharp.dll
