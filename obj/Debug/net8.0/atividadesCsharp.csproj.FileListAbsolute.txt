@@ -12,3 +12,4 @@ C:\repositorioAnaJulya\csharp\atividadesCsharp\obj\Debug\net8.0\refint\atividade
 C:\repositorioAnaJulya\csharp\atividadesCsharp\obj\Debug\net8.0\atividadesCsharp.pdb
 C:\repositorioAnaJulya\csharp\atividadesCsharp\obj\Debug\net8.0\atividadesCsharp.genruntimeconfig.cache
 C:\repositorioAnaJulya\csharp\atividadesCsharp\obj\Debug\net8.0\ref\atividadesCsharp.dll
+C:\repositorioAnaJulya\csharp\atividadesCsharp\obj\Debug\net8.0\atividadesCsharp.sourcelink.json
