@@ -1,4 +1,4 @@
-using System;
+/*using System;
 
 class Program{
 
@@ -96,19 +96,4 @@ class Program{
     }
 
 }
-
-
-
-
-
-/*
-└── IniciarJogo()
-       ├── Jogadores()
-       └── IniciarRodadas(1)   ← RECURSÃO
-              ├── ExecutarRodada()
-              ├── MostrarPlacar()
-              └── IniciarRodadas(rodada + 1)
-       
-Final:
- └── Mostrar vencedor
 */
